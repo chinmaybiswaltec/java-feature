@@ -1,3 +1,4 @@
+/*
 package com.chinmaybiswaltec.exception;
 
 import java.io.IOException;
@@ -23,3 +24,4 @@ class Child2 extends Parent2{
     }
 }
 
+*/

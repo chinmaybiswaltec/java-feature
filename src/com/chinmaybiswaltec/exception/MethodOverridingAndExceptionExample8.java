@@ -1,3 +1,4 @@
+/*
 
 package com.chinmaybiswaltec.exception;
 
@@ -25,3 +26,4 @@ class Child8 extends Parent8{
     }
 }
 
+*/
